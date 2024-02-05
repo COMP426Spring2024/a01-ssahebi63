@@ -12,7 +12,6 @@ These pages should describe a mythological character or mythological story. The 
 The only real requirements for this assignment are these:
 
 1. There should be a single logical "starting" web page as index.html.
-2. There should be at least 3 pages. There is no maximum limit of pages, but don't go crazy.
 3. There should be links that navigate between the pages
 4. All of the pages should use the same CSS stylesheet
 5. All of the pages, stylesheets, images, or other resources are commited to this repository.

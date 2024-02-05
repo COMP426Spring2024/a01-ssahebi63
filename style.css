@@ -1,0 +1,94 @@
+
+
+body{
+    margin: 0px;  
+}
+.text-body{
+    margin: 20px
+    auto;
+    max-width: 650px;
+    line-height: 1.6;
+    font-family: Georgia,serif;
+    font-size: 16px;
+    color: #444;
+    padding: 0
+    10px;
+
+    
+  }
+#profile-name{
+    text-align: center;
+}
+table{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 4px solid #4d4d4d;
+}
+
+tbody th:nth-child(1),
+tbody th:nth-child(2),
+tbody th:nth-child(3),
+tbody th:nth-child(4){
+    width: auto;
+} 
+
+th,td {
+  padding: 20px;
+}
+
+#borat-img, #azamat-img{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 5%;
+    
+    
+}
+
+  h1, h2, h3 {
+    line-height: 1.2
+} 
+  
+  .nav {
+    margin: 0px;
+    height: 50px;
+    width: 100%;
+    background-color: #4d4d4d;
+    position: relative;
+    font-family: 'segoe ui';
+  }
+  
+  .nav > .nav-header {
+    display: inline;
+  }
+  
+  .nav > .nav-header > .nav-title {
+    display: inline-block;
+    font-size: 22px;
+    color: #fff;
+    padding: 10px 10px 10px 10px;
+  }
+  
+  
+  .nav > .nav-links {
+    display: inline;
+    float: right;
+    font-size: 18px;
+  }
+  
+  .nav > .nav-links > a {
+    display: inline-block;
+    padding: 13px 10px 13px 10px;
+    text-decoration: none;
+    color: #efefef;
+  }
+  
+  .nav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+
+
+
+  
